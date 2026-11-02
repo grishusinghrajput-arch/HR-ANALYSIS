@@ -49,3 +49,10 @@ Developed an HR analytics solution to understand workforce trends, evaluate empl
 **Project Domain:** Human Resources Analytics
 **Tools:** Excel | SQL | Power BI
 **Dataset:** 3,000 Rows | 21 Columns
+
+HR-Analytics/
+│
+├── README.md
+├── HR.csv
+├── HR_SQL_REPORT.sql
+└── HR DASHBOARD.pbix
