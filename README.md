@@ -9,8 +9,14 @@ The objective is to transform employee data into meaningful insights that help H
 ## 🛠️ Tools & Technologies
 
 * **Excel:** Data inspection and preparation.
+* **Python:** Data cleaning, data manipulation, and exploratory data analysis (EDA) using Pandas and NumPy.
 * **SQL (MySQL):** Data analysis, aggregations, subqueries, CTEs, and employee ranking.
-* **Power BI:** Interactive dashboards, KPIs, and data visualization.
+* **Power BI:** Interactive dashboards, KPI monitoring, and data visualization.
+
+---
+
+**Tools:** Excel | Python (Pandas, NumPy) | SQL | Power BI
+
 
 ## ❓ Business Questions
 
@@ -47,7 +53,7 @@ Developed an HR analytics solution to understand workforce trends, evaluate empl
 ---
 
 **Project Domain:** Human Resources Analytics
-**Tools:** Excel | SQL | Power BI
+**Tools:** Excel | Python | SQL | Power BI
 **Dataset:** 3,000 Rows | 21 Columns
 
 HR-Analytics/
